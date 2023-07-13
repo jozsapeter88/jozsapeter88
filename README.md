@@ -3,7 +3,7 @@
 
 - ⚡ I’m currently working on [Goal.NET](https://github.com/jozsapeter88/Goal.NET)
 
-- ⚡ And also creating my portfolio site [Portfolio Site](https://github.com/jozsapeter88/personal-portfolio)
+- ⚡ And also creating my [Portfolio Site](https://github.com/jozsapeter88/personal-portfolio)
 
 - ⚡ I’m currently learning **ASP.NET**
 
