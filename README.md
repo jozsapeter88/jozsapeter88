@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Péter Józsa</h1>
+<h1 align="center">Hey, I'm Péter 🫡</h1>
 <h3 align="center">Fullstack developer from Hungary</h3>
 
 - ⚡ I’m currently working on **[Goal.NET](https://github.com/jozsapeter88/Goal.NET)**
