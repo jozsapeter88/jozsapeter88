@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Péter 🫡</h1>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=FFFFFF&color=005CFF&height=300&section=header&text=Hey,%20I'm%20Péter🫡&fontSize=90">
+</p>
 <h3 align="center">Fullstack developer from Hungary</h3>
 
 - ⚡ I’m currently working on **[Goal.NET](https://github.com/jozsapeter88/Goal.NET)**
@@ -14,7 +16,6 @@
      ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
-
 • Programming languages<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
