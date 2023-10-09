@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Fullstack developer from Hungary</h3>
 
-- ⚡ I’m currently working on **[Goal.NET](https://github.com/jozsapeter88/Goal.NET)**
+- ⚡ I’m currently working on **[Stock Manager](https://github.com/jozsapeter88/stock-manager)**
 
 - ⚡ And also creating my **[Portfolio Site](https://github.com/jozsapeter88/personal-portfolio)**
 
